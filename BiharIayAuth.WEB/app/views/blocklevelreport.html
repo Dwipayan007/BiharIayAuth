@@ -1,0 +1,50 @@
+﻿<div class="matter">
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="widget wviolet">
+                    <div class="widget-head">
+                        <div class="pull-left">
+                            Block Level Report
+                        </div>
+                        <div class="widget-icons pull-right">
+                            <a href="#" class="wminimize"><i class="icon-chevron-up"></i></a><a href="#" class="wclose">
+                                <i class="icon-remove"></i></a>
+                        </div>
+                        <div class="clearfix">
+                        </div>
+                    </div>
+                    <div class="widget-content">
+                        <div class="padd">
+                            <div class="form-horizontal">
+                                <div class="control-group">
+                                    <label class="control-label" for="districtdd">
+                                        District</label>
+                                    <div class="controls">
+                                        <select data-ng-model="iayins.DISTRICT" data-ng-options="d.dname for d in districts" id="districtdd" />
+                                    </div>
+                                </div>
+                                <div class="control-group">
+                                    <label class="control-label" for="blockdd">
+                                        Block</label>
+                                    <div class="controls">
+                                        <select data-ng-model="iayins.BLOCK" data-ng-options="b.bname for b in blocks" id="blockdd" />
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="widget-foot">
+                        <div class="pull-right">
+                            <input data-ng-click="getBlockReport()" type="button" class="btn btn-primary" value="Get Report" />
+                        </div>
+                        <div class="clearfix">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Matter ends -->
+</div>

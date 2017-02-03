@@ -1,0 +1,12 @@
+C:\projects\AngularProjects\BiharIayAuth\BiharIayAuth.WEB\bin\BiharIayAuth.WEB.dll.config
+C:\projects\AngularProjects\BiharIayAuth\BiharIayAuth.WEB\bin\BiharIayAuth.WEB.dll
+C:\projects\AngularProjects\BiharIayAuth\BiharIayAuth.WEB\bin\BiharIayAuth.WEB.pdb
+C:\projects\AngularProjects\BiharIayAuth\BiharIayAuth.WEB\obj\Debug\BiharIayAuth.WEB.dll
+C:\projects\AngularProjects\BiharIayAuth\BiharIayAuth.WEB\obj\Debug\BiharIayAuth.WEB.pdb
+C:\projects\AngularProjects\BiharIayAuth\BiharIayAuth.WEB\obj\Debug\BiharIayAuth.WEB.csprojResolveAssemblyReference.cache
+C:\webapps\BiharIayAuth\BiharIayAuth.WEB\bin\BiharIayAuth.WEB.dll.config
+C:\webapps\BiharIayAuth\BiharIayAuth.WEB\bin\BiharIayAuth.WEB.dll
+C:\webapps\BiharIayAuth\BiharIayAuth.WEB\bin\BiharIayAuth.WEB.pdb
+C:\webapps\BiharIayAuth\BiharIayAuth.WEB\obj\Debug\BiharIayAuth.WEB.csprojResolveAssemblyReference.cache
+C:\webapps\BiharIayAuth\BiharIayAuth.WEB\obj\Debug\BiharIayAuth.WEB.dll
+C:\webapps\BiharIayAuth\BiharIayAuth.WEB\obj\Debug\BiharIayAuth.WEB.pdb
